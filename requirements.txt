@@ -1,0 +1,6 @@
+- MS Excel (Data Cleaning)
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- Scikit-learn (ML Models)
+- SciPy (Statistical Testing)
+- SQL (Data Analysis)
+- Power BI (Dashboard)
