@@ -126,32 +126,37 @@ Attrition is statistically driven by:
 ---
 
 ## Project Structure
+
 ```
-HR-Attrition-Analysis/
+hr-attrition-analysis-ml-dashboard/
 │
 ├── data/
-│ ├── raw/
-│ ├── processed/
+│   ├── HR_Attrition_Final.csv
+│   ├── HR_Attrition_Engineered.csv
+│   ├── Attrition_Driver_Ranking.csv
 │
 ├── notebooks/
-│ ├── eda.ipynb
-│ ├── feature_engineering.ipynb
-│ ├── modeling.ipynb
+│   ├── HR_Attrition_Analysis.ipynb
 │
 ├── powerbi/
-│ ├── dashboard.pbix
+│   ├── HR_Attrition_Dashboard.pbix
 │
 ├── reports/
-│ ├── HR_Attrition_Report.docx
-│ ├── presentation.pptx
-│
-├── src/
-│ ├── data_preprocessing.py
-│ ├── feature_engineering.py
-│ ├── model_training.py
+│   ├── HR_Attrition_Analysis_Report.docx
+│   ├── HR_Attrition_Report_with_ML.docx
+│   ├── HR_Attrition_Report.pptx
 │
 ├── images/
-│ ├── visualizations/
+│   ├── Attrition-by-BusinessTravel.png
+│   ├── Attrition-by-Dept.png
+│   ├── Attrition-by-JobRole.png
+│   ├── Attrition-by-MaritalStatus.png
+│   ├── Attrition-by-OverTime.png
+│   ├── MonthlyIncome-vs-Attrition.png
+│   ├── SatisfactionScore-vs-Attrition.png
+│   ├── WorkStressIndex-vs-Attrition.png
+│   ├── YearsAtCompany-vs-Attrition.png
+│   ├── dashboard_preview.png
 │
 ├── README.md
 └── requirements.txt
