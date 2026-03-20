@@ -1,19 +1,25 @@
-# 📊 HR Attrition Analysis & Prediction
+# HR Attrition Analysis & Prediction
 
-## 🚀 Project Overview
+## Project Overview
 This project analyzes employee attrition using data analytics and machine learning techniques. The goal is to identify key factors influencing employee turnover and provide actionable insights to improve retention strategies.
 
 ---
 
-## 📓 Notebook (Google Colab)
+## Project Insights
 
-You can explore the complete analysis and modeling workflow here:
-
-👉 [Open in Google Colab](https://colab.research.google.com/drive/1IqZFmuoSfLxPxTfWPMcZoVCKFaPDYD-Q)
+<img src="assets/Employee_Attrition_Dashboard.png"/>
 
 ---
 
-## 🎯 Objectives
+## Notebook (Google Colab)
+
+You can explore the complete analysis and modeling workflow here:
+
+>>> [Open in Google Colab](https://colab.research.google.com/drive/1IqZFmuoSfLxPxTfWPMcZoVCKFaPDYD-Q)
+
+---
+
+## Objectives
 - Understand attrition trends and patterns
 - Identify key drivers of employee turnover
 - Build a predictive model for attrition risk
@@ -22,13 +28,12 @@ You can explore the complete analysis and modeling workflow here:
 
 ---
 
-## 🧱 Project Workflow
+## Project Workflow
 Data → Cleaning → EDA → Feature Engineering → Statistical Analysis → ML Modeling → Dashboard → Insights
-
 
 ---
 
-## 📂 Dataset
+## Dataset
 - HR Employee Attrition Dataset
 - Includes features like:
   - Age, Income, Job Role, Department
@@ -38,7 +43,7 @@ Data → Cleaning → EDA → Feature Engineering → Statistical Analysis → M
 
 ---
 
-## 🔍 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### Key Findings:
 - Overtime increases attrition by ~3x
@@ -49,7 +54,7 @@ Data → Cleaning → EDA → Feature Engineering → Statistical Analysis → M
 
 ---
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 Created new features:
 - Satisfaction Score (composite)
@@ -60,7 +65,7 @@ Created new features:
 
 ---
 
-## 🧪 Statistical Analysis
+## Statistical Analysis
 
 - Chi-Square Test → categorical variables
 - T-Test → numerical variables
@@ -75,7 +80,7 @@ Attrition is statistically driven by:
 
 ---
 
-## 🤖 Machine Learning
+## Machine Learning
 
 ### Models Used:
 - Logistic Regression (Interpretability)
@@ -90,7 +95,7 @@ Attrition is statistically driven by:
 
 ---
 
-## 📊 Power BI Dashboard
+## Power BI Dashboard
 
 ### Features:
 - KPI Cards (Attrition %, High Risk Employees)
@@ -101,7 +106,7 @@ Attrition is statistically driven by:
 
 ---
 
-## 🧠 Business Insights
+## Business Insights
 
 - Attrition is multi-factor driven
 - Burnout (OverTime) is the strongest immediate driver
@@ -110,7 +115,7 @@ Attrition is statistically driven by:
 
 ---
 
-## 💡 Recommendations
+## Recommendations
 
 - Optimize compensation structure
 - Reduce overtime and workload imbalance
@@ -120,7 +125,7 @@ Attrition is statistically driven by:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 ```
 HR-Attrition-Analysis/
 │
@@ -154,7 +159,7 @@ HR-Attrition-Analysis/
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Scikit-learn (ML Models)
@@ -164,7 +169,7 @@ HR-Attrition-Analysis/
 
 ---
 
-## 🚀 Future Improvements
+## Future Improvements
 
 - Handle class imbalance (SMOTE)
 - Add SHAP for model explainability
