@@ -15,7 +15,7 @@ This project analyzes employee attrition using data analytics and machine learni
 
 You can explore the complete analysis and modeling workflow here:
 
->>> [Open in Google Colab](https://colab.research.google.com/drive/1IqZFmuoSfLxPxTfWPMcZoVCKFaPDYD-Q)
+[Open in Google Colab](https://colab.research.google.com/drive/1IqZFmuoSfLxPxTfWPMcZoVCKFaPDYD-Q)
 
 ---
 
