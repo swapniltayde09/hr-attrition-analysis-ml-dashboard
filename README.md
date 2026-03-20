@@ -142,8 +142,7 @@ hr-attrition-analysis-ml-dashboard/
 │   ├── HR_Attrition_Dashboard.pbix
 │
 ├── reports/
-│   ├── HR_Attrition_Analysis_Report.docx
-│   ├── HR_Attrition_Report_with_ML.docx
+│   ├── HR_Attrition_Analysis_Report_Detailed.pdf
 │   ├── HR_Attrition_Report.pptx
 │
 ├── images/
