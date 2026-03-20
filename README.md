@@ -5,6 +5,14 @@ This project analyzes employee attrition using data analytics and machine learni
 
 ---
 
+## 📓 Notebook (Google Colab)
+
+You can explore the complete analysis and modeling workflow here:
+
+👉 [Open in Google Colab](https://colab.research.google.com/drive/1IqZFmuoSfLxPxTfWPMcZoVCKFaPDYD-Q)
+
+---
+
 ## 🎯 Objectives
 - Understand attrition trends and patterns
 - Identify key drivers of employee turnover
